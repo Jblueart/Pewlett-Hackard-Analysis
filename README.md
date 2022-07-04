@@ -26,6 +26,7 @@ We've identified the need for the primary keys to be Unique to each entry to mai
 ERDs allow us to document and exdplore existing databases with a visual represtation. It helps to analyze and see the relationships between the various tables. 
 Since ERDs show us how the data connects, they make it easier to interpret and manipulate the information into more clear databases. 
 
+![Flowchart titles](https://user-images.githubusercontent.com/104408782/177197931-f7eb0d4a-073b-440b-8d5d-2241c393eea6.png)
 
 
 
@@ -36,6 +37,9 @@ Since ERDs show us how the data connects, they make it easier to interpret and m
 ### Eligible Staff by title: 
 
 retiring_titles.csv
+
+![image](https://user-images.githubusercontent.com/104408782/177197775-6108ce40-e2e2-4182-9973-afa0e7a3c489.png)
+
 
 ## Number of employees retiring by title
 Senior Engineer: 13651
